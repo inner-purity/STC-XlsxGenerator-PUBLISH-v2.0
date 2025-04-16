@@ -1,8 +1,11 @@
 # STC-XlsxGenerator-PUBLISH-v2.0
  This is an Excel report automatic generation plug-in developed for China | National College Student Software Testing Competition to improve the efficiency of filling out test report forms.
-### 使用方法
+
+---
+
  这是一个Excel自动生成插件，目的是让我们的测试报告表格书写和代码完美结合，而不必要在写完代码后再去书写测试报告。因为在写完测试用例之后，我们立即可以通过方便的注解来书写我们对指定测试用例的描述，在思维上变得更加连贯，书写效率上也有一定提高。总体使用起来丝滑连贯。
  
+### 使用方法
 使用起来很简单，以下方式你任选其一：
  - 1. 直接下载整个代码包，随后在here_to_write_your_test中书写你的测试类。随后即可使用插件提供的全部注解。在书写完你的代码之后，运行 GeneratorApplication.java ，几秒钟后，你将会在控制台看到插件运行产生的详细的日志输出。随后，一张测试报告表格就在你的项目文件夹下生成了。
  - 2. 你可以运行:
@@ -22,7 +25,6 @@
    随后即可使用插件提供的全部注解。在书写完你的代码之后，在你的项目根目录，也就是src下的com.xxx顶级目录下，创建一个 GeneratorApplication.java文件，复制以下内容：
    
    ```
-   import generator.service.STCXslxGenerator;   
    /**
     * STC-XlsxGenerator 生成器主启动类，点击此处运行程序
     */
