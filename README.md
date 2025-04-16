@@ -18,8 +18,8 @@
    
    ```
    <groupId>com.innerpurity</groupId>
-    <artifactId>STC-XlsxGenerator</artifactId>
-    <version>1.2</version>
+   <artifactId>STC-XlsxGenerator</artifactId>
+   <version>1.2</version>
    ```
    
    随后即可使用插件提供的全部注解。在书写完你的代码之后，在你的项目根目录，也就是src下的com.xxx顶级目录下，创建一个 GeneratorApplication.java文件，复制以下内容：
@@ -41,4 +41,4 @@
 ### 重点提示
 1. 因为每次比赛Excel的字段列名称可能都不太一样，所以此插件不能保证每次比赛都生成正确的表格，仅做参考使用。你也可以根据本场比赛全新的表格规则来改造源码，以达到你的目的。
 2. 本插件仅作为本人兴趣开发的项目，不对任何人的比赛成绩和比赛结果生成做担保，一切因使用本插件产生的后果都应由使用者自行承担，本人概不负责
-3. 有兴趣的同学也可以对此源码做改造优化，有问题随时在issue区反馈，我看到了有空就会及时更新。
+3. 有兴趣的同学也可以对此源码做改造优化，有问题随时在Issues区反馈，我看到了有空就会及时更新。
