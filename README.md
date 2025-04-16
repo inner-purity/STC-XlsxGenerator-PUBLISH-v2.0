@@ -5,18 +5,23 @@
  
 使用起来很简单，以下方式你任选其一：
  - 1. 直接下载整个代码包，随后在here_to_write_your_test中书写你的测试类。随后即可使用插件提供的全部注解。在书写完你的代码之后，运行 GeneratorApplication.java ，几秒钟后，你将会在控制台看到插件运行产生的详细的日志输出。随后，一张测试报告表格就在你的项目文件夹下生成了。
-   2. 你可以运行:
+ - 2. 你可以运行:
+      
    ```
    mvn clean install
    ```
+   
    随后在你的任意一个项目的pom.xml文件中，导入如下配置：
+   
    ```
    <groupId>com.innerpurity</groupId>
     <artifactId>STC-XlsxGenerator</artifactId>
     <version>1.2</version>
    ```
+   
    随后即可使用插件提供的全部注解。在书写完你的代码之后，在你的项目根目录，也就是src下的com.xxx顶级目录下，创建一个 GeneratorApplication.java文件，复制以下内容：
-   ```java```
+   
+   ```
    import generator.service.STCXslxGenerator;   
    /**
     * STC-XlsxGenerator 生成器主启动类，点击此处运行程序
@@ -28,6 +33,7 @@
        }
    }
    ```
+
    运行它！几秒钟后，你将会在控制台看到插件运行产生的详细的日志输出。随后，一张测试报告表格就在你的项目文件夹下生成了。
 
 ### 重点提示
