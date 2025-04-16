@@ -1,0 +1,10 @@
+GeneratorApplication.class
+here_to_write_your_test\TestCtrip.class
+here_to_write_your_test\TestCtrip_bak.class
+generator\utils\PropertiesUtils.class
+generator\constant\ExceptionConstant.class
+generator\service\STCXslxGenerator.class
+generator\constant\TitleIndexConstant.class
+generator\annotation\CaseProperties.class
+generator\po\TestCase.class
+generator\annotation\ExcludeThis.class

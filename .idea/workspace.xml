@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf2d9d21-2b37-4f26-aa97-af7a1bf896a7" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/generator/service/STCXslxGenerator.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../maven3.6.1/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="200" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2ornXVHeagItU2d5sPropihXp1a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Desktop/Java_Workplace/Projects/My_Projects/STC-XlsxGenerator-PUBLISH-v2.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15039062",
+    "project.structure.side.proportion": "0.39885056",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\Java_Workplace\Projects\My_Projects\STC-XlsxGenerator\src\main\java\your_test" />
+      <recent name="D:\Desktop\Java_Workplace\Projects\My_Projects\STC-XlsxGenerator" />
+      <recent name="D:\Desktop\Java_Workplace\Projects\My_Projects\STC-XlsxGenerator\screenshots" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.innerpurity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.GeneratorApplication">
+    <configuration name="GeneratorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeneratorApplication" />
+      <module name="STC-XlsxGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="STCXslxGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.innerpurity.STCXslxGenerator.service.STCXslxGenerator" />
+      <module name="STC-XlsxGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.innerpurity.STCXslxGenerator.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STC-XlsxGenerator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCtrip.test_Ctrip_R003" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STC-XlsxGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.innerpurity.STCXslxGenerator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.innerpurity.STCXslxGenerator.test" />
+      <option name="MAIN_CLASS_NAME" value="com.innerpurity.STCXslxGenerator.test.TestCtrip" />
+      <option name="METHOD_NAME" value="test_Ctrip_R003" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCtrip.test_Ctrip_R004" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="STC-XlsxGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.innerpurity.STCXslxGenerator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.innerpurity.STCXslxGenerator.test" />
+      <option name="MAIN_CLASS_NAME" value="com.innerpurity.STCXslxGenerator.test.TestCtrip" />
+      <option name="METHOD_NAME" value="test_Ctrip_R004" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.GeneratorApplication" />
+        <item itemvalue="JUnit.MyTest.test01" />
+        <item itemvalue="应用程序.STCXslxGenerator" />
+        <item itemvalue="JUnit.TestCtrip.test_Ctrip_R003" />
+        <item itemvalue="JUnit.TestCtrip.test_Ctrip_R004" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cf2d9d21-2b37-4f26-aa97-af7a1bf896a7" name="更改" comment="" />
+      <created>1731636602874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731636602874</updated>
+      <workItem from="1731636603935" duration="9708000" />
+      <workItem from="1731649104797" duration="33899000" />
+      <workItem from="1731918507215" duration="4784000" />
+      <workItem from="1731990513875" duration="23000" />
+      <workItem from="1732003637063" duration="238000" />
+      <workItem from="1732086491143" duration="2160000" />
+      <workItem from="1732178287003" duration="2607000" />
+      <workItem from="1732248559465" duration="7929000" />
+      <workItem from="1732256508531" duration="9259000" />
+      <workItem from="1732272958766" duration="23771000" />
+      <workItem from="1732423620884" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/STC_XlsxGenerator$STCXslxGenerator.ic" NAME="STCXslxGenerator 覆盖结果" MODIFIED="1731656753964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.innerpurity.STCXslxGenerator.*</FILTER>
+    </SUITE>
+  </component>
+</project>
